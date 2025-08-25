@@ -82,6 +82,7 @@ button:hover {
   text-align: left;
 }
 
-.form-group {
-  color: white;
+form.row g-3 {
+  color: black;
+  font-size: 20px;
 }/*# sourceMappingURL=style.css.map */
