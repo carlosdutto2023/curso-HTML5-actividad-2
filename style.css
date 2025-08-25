@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: rgb(107, 102, 102);
   margin: 0;
   padding: 0;
 }
@@ -84,5 +84,10 @@ button:hover {
 
 form.row g-3 {
   color: black;
+  font-size: 20px;
+}
+
+.form-label {
+  color: white;
   font-size: 20px;
 }/*# sourceMappingURL=style.css.map */
