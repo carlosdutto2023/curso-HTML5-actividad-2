@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(107, 102, 102);
+  background-color: rgb(83, 81, 81);
   margin: 0;
   padding: 0;
 }
@@ -83,11 +83,27 @@ button:hover {
 }
 
 form.row g-3 {
-  color: black;
+  color: rgb(83, 81, 81);
   font-size: 20px;
 }
 
 .form-label {
   color: white;
   font-size: 20px;
+}
+
+.card {
+  color: black;
+}
+
+.card-text {
+  color: black;
+}
+
+.container {
+  width: 100%;
+  padding-right: 20;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
 }/*# sourceMappingURL=style.css.map */

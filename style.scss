@@ -1,5 +1,7 @@
-$fondo:black;
+$fondo: rgb(83, 81, 81);
 $texto:white;
+
+
 
 body {
         background-color: $fondo;
@@ -80,3 +82,19 @@ color: $texto;
         .form-label{
             color: $texto;
             font-size: 20px;}
+            .card{
+                color: black;
+            }
+            .card-text{
+                color: black;
+            }
+            .container{
+                width: 100%;
+  padding-right: 20;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
+            }
+            .carousel-inner{
+
+            }
