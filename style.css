@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(83, 81, 81);
+  background-color: rgb(81, 83, 81);
   margin: 0;
   padding: 0;
 }
@@ -83,7 +83,7 @@ button:hover {
 }
 
 form.row g-3 {
-  color: rgb(83, 81, 81);
+  color: rgb(81, 83, 81);
   font-size: 20px;
 }
 
