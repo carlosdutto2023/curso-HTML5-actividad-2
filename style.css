@@ -100,10 +100,9 @@ form.row g-3 {
   color: black;
 }
 
-.container {
-  width: 100%;
-  padding-right: 20;
-  padding-left: 0;
-  margin-right: auto;
-  margin-left: auto;
+.display-4 {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }/*# sourceMappingURL=style.css.map */
